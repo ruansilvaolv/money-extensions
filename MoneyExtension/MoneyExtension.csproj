@@ -6,7 +6,7 @@
     <Nullable>enable</Nullable>
 
     <PackageId>MoneyExtensionsRODev</PackageId>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <License>MIT</License>
     <Authors>Ruan Oliveira</Authors>
     <PackageDescription>Extension to convert decimal to integer (learning DevOps)</PackageDescription>
